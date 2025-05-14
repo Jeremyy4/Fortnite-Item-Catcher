@@ -1,7 +1,5 @@
 Battleship game
-Adham Tawfik (3770858)
 Jeremy Tongrui Qiao (3753194)
-Johnrich Tottoc (3759207)
 
 
 User
